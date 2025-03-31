@@ -1,6 +1,6 @@
 # Political News Data Results
 
-This project analyzes news coverage of Former Vice President Kamala Harris and President Donald Trump during the 2024 U.S. election season. It explores which outlets covered each candidate, how frequently, and what topics were most associated with each.
+This project analyzes news coverage of Former Vice President Kamala Harris and President Donald Trump during the 2024 U.S. election season. It explores which outlets covered each candidate, how frequently, and what topics were most associated with each candidate.
 
 ---
 
