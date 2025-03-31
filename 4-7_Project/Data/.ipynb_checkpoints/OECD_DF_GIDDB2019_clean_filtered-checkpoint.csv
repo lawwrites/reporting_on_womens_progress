@@ -1,0 +1,34 @@
+ref_code,measure_code,measure,unit_measure_code,unit_of_measure,age,sex,variable_category,sigi_code,sigi_framework,time_period,obs_value,observation_status,unit_mult,calc_method
+BRA,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,75.0,Normal value,0,SIGI_YES
+BRA,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,49.7,Normal value,0,SIGI_NO
+BRA,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,36.8,Normal value,0,SIGI_YES
+CAN,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,0.0,Normal value,0,SIGI_YES
+CAN,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,68.7,Normal value,0,SIGI_NO
+CAN,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,35.6,Normal value,0,SIGI_YES
+CHN,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,71.9,Normal value,0,SIGI_NO
+CHN,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,0.0,Normal value,0,SIGI_YES
+CHN,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,16.8,Normal value,0,SIGI_YES
+DEU,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,0.0,Normal value,0,SIGI_YES
+DEU,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,58.4,Normal value,0,SIGI_NO
+DEU,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,28.1,Normal value,0,SIGI_YES
+FRA,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,52.8,Normal value,0,SIGI_NO
+FRA,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,35.5,Normal value,0,SIGI_YES
+FRA,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,0.0,Normal value,0,SIGI_YES
+GBR,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,36.8,Normal value,0,SIGI_YES
+GBR,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,68.0,Normal value,0,SIGI_NO
+GBR,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,75.0,Normal value,0,SIGI_YES
+IND,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,17.6,Normal value,0,SIGI_YES
+IND,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,75.0,Normal value,0,SIGI_YES
+IND,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,64.9,Normal value,0,SIGI_NO
+ITA,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,0.0,Normal value,0,SIGI_YES
+ITA,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,54.3,Normal value,0,SIGI_NO
+ITA,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,27.3,Normal value,0,SIGI_YES
+JPN,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,13.3,Normal value,0,SIGI_YES
+JPN,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,82.0,Normal value,0,SIGI_NO
+JPN,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,75.0,Normal value,0,SIGI_YES
+MEX,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,75.0,Normal value,0,SIGI_YES
+MEX,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,57.3,Normal value,0,SIGI_NO
+MEX,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,38.4,Normal value,0,SIGI_YES
+USA,RAPFR_WR_PCT_1,Gender gap in managerial positions,PT_POP_SUB,Percentage of population in the same subgroup,15 years or over,Female,Practices,RAPFR_WR,Workplace rights,2023,41.4,Normal value,0,SIGI_YES
+USA,RPI_RA_LAW,Legal discrimination on reproductive autonomy,0_TO_100,0-100 scale,Not applicable,Not applicable,Legal frameworks,RPI_RA,Reproductive autonomy,2023,100.0,Normal value,0,SIGI_YES
+USA,DF_HR_ATT_1,Perception that being a housewife is as fulfilling as working for pay,PT_POP,Percentage of population,18 years or over,Total,Attitudes,DF_HR,Household responsibilities,2023,70.3,Normal value,0,SIGI_NO
